@@ -4,6 +4,6 @@
 if SHIELD_NAKED60
 
 config ZMK_KEYBOARD_NAME
-    default "naked60"
+    default "ortho75"
 
 endif
