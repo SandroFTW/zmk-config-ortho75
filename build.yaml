@@ -18,9 +18,5 @@
 #
 ---
 include:
-  - board: bt75_v1
-include:
-  - board: planck_rev6
-include:
   - board: nice_nano_v2
-    shield: naked60
+    shield: ortho75
